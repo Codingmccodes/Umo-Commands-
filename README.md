@@ -1,7 +1,8 @@
 # Umo Commands
 
-Here are a list of commands relating to Umo Bot
-
+* Here are a list of commands relating to Umo Bot
+* Type help to get a short preview of all Commands, Type >help <command name> to get extended information about this one command.
+  
 ## Music Plugin
 
 `>filter`
@@ -52,8 +53,10 @@ Stops the music
 `>volume`
 Change volume
 
+## Basic Plugin
+
 `>help`
-Gives you a list of all help Commands
+Do >help <command> for more information on that command relating to this list
 
 `>invite`
 Gives you an invite
@@ -61,8 +64,18 @@ Gives you an invite
 `>ping`
 Gives you the ping of the Bot
 
+## Admin Only
+
 `>setprefix`
 Sets a server specific Prefix
 
+## Information
+
+`>whois`
+Information on a specific user
+
 `>uptime`
 Gives you the uptime of the Bot
+
+### Invite now
+[Click here](https://discord.com/api/oauth2/authorize?client_id=803709798024872023&permissions=1190526416&scope=bot)
