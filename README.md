@@ -5,76 +5,76 @@
   
 ## Music Plugin
 
-`>filter`
+`filter`
 Set Audio - Effects
 
-`>loop`
+`loop`
 Toggle music loop
 
-`>lyrics`
+`lyrics`
 Get lyrics for the currently playing song
 
-`>nowplaying`
+`nowplaying`
 Show current song
 
-`>pause`
+`pause`
 Pause the currently playing music
 
-`>play`
+`play`
 Plays song from Spotify/YouTube/Stream
 
-`>queue`
+`queue`
 Show the music queue and now playing
 
-`>radio`
+`radio`
 Play a Radiostation
 
-`>remove`
+`remove`
 Remove song from the queue
 
-`>resume`
+`resume`
 Resume currently playing music
 
-`>search`
+`search`
 Search and select videos to play
 
-`>shuffle`
+`shuffle`
 Shuffles the current Queue
 
-`>skip`
+`skip`
 Skip the currently playing song
 
-`>skipto`
+`skipto`
 Skip to the selected queue number
 
-`>stop`
+`stop`
 Stops the music
 
-`>volume`
+`volume`
 Change volume
 
 ## Basic Plugin
 
-`>help`
+`help`
 Do >help <command> for more information on that command relating to this list
 
-`>invite`
+`invite`
 Gives you an invite
 
-`>ping`
+`ping`
 Gives you the ping of the Bot
 
 ## Admin Only
 
-`>setprefix`
+`setprefix`
 Sets a server specific Prefix
 
 ## Information
 
-`>whois`
+`whois`
 Information on a specific user
 
-`>uptime`
+`uptime`
 Gives you the uptime of the Bot
 
 ### Invite now
